@@ -1,1 +1,1 @@
-# SimpleStorage
+# Lesson2_SimpleStorage
